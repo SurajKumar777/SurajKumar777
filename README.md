@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SurajKumar777
-- 👀 I’m interested in ReactJS, JavaScript, Nodejs, HTML, CSS, MongoDB.
-- 🌱 I’m currently learning Nodejs
-- 💞️ I’m looking to collaborate on MERN stack projects.
+- 👀 I’m interested in Web and Application development.
+- 🌱 I’m currently working as a flutter developer.
+- 💞️ I’ also have brief knowledge of Reaat also.
 - 📫 How to reach me? Contact me at surajkumar123800@gmail.com / 8527038223
 
 <!---
