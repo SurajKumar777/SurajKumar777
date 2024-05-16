@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SurajKumar777
 - 👀 I’m interested in Web and Application development.
 - 🌱 I’m currently working as a flutter developer.
-- 💞️ I’ also have brief knowledge of Reaat also.
+- 💞️ I’ also have brief knowledge of React also.
 - 📫 How to reach me? Contact me at surajkumar123800@gmail.com / 8527038223
 
 <!---
